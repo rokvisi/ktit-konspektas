@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Reminders",
+      "path": "Personal/Reminders.md"
+    },
+    {
+      "type": "file",
+      "title": "Teorinė dalis",
+      "path": "5 Semestras/KTIT/Egzaminas/Teorijos klausimai/Teorinė dalis.md"
+    },
+    {
+      "type": "file",
+      "title": "Praktinė dalis",
+      "path": "5 Semestras/KTIT/Egzaminas/Praktiniai uždaviniai/Praktinė dalis.md"
+    },
+    {
+      "type": "file",
+      "title": "KTIT - Egzaminas",
+      "path": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md"
+    }
+  ]
+}
