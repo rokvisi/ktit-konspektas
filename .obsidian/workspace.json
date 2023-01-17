@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2e9f535839eacacb",
+        "id": "aadd91b581efce29",
         "type": "tabs",
         "children": [
           {
-            "id": "912cb5c4ee900b01",
+            "id": "179276ac87237709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md",
+                "file": "KTIT - Egzaminas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md",
+                "file": "KTIT - Egzaminas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md",
+                "file": "KTIT - Egzaminas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md"
+                "file": "KTIT - Egzaminas.md"
               }
             }
           },
@@ -164,17 +164,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "912cb5c4ee900b01",
+  "active": "179276ac87237709",
   "lastOpenFiles": [
+    "Egzamine rodomos formulės.md",
+    "Teorijos klausimai/OSI modelio sluoksniai ir apibūdinimas. Komunikavimo procesas..md",
+    "KTIT - Egzaminas.md",
     "5 Semestras/LP/Praktika/C++ Monitoriai.md",
     "5 Semestras/LP/LP - Egzaminas.md",
     "5 Semestras/LP/Teorija/Gijos internete.md",
     "5 Semestras/LP/Praktika/OpenMP.md",
     "5 Semestras/LP/Praktika/CUDA - Pakelti skaičių masyvą kvadratu ir rasti max.md",
     "5 Semestras/LP/Praktika/GO ar MPI - 10 gijų pasidalina 1000 masyvą po 100 elementų ir skaičiuoja vidurkius ir grąžina main, 1 gija laukia sumos iš kitų gijų ir visą bendrą suma grąžina main.md",
-    "5 Semestras/LP/Praktika/GO ar MPI - 5 gijos siunčia dinamišką duomenų kiekį main. Main skaičiuoja gautų duomenų sumą ir baigia darbą, kai nebėra daugiau duomenų.md",
-    "5 Semestras/LP/Teoriniai uždaviniai/Jums duotas uždavinys, kurį galime išspręsti pritaikant duomenų lygiagretumą. Kokias priemones pasirinktumėte uždaviniui spręsti, kaip jas pritaikytumėte ir kokios gali kilti problemos.md",
-    "5 Semestras/LP/Teorija/Python ir C++ gijų skirtumai, panašumai.md",
-    "5 Semestras/LP/Teorija/Python gijos ir C++ gijos.md"
+    "5 Semestras/LP/Praktika/GO ar MPI - 5 gijos siunčia dinamišką duomenų kiekį main. Main skaičiuoja gautų duomenų sumą ir baigia darbą, kai nebėra daugiau duomenų.md"
   ]
 }
