@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26a1074ff6c52da9",
+            "id": "912cb5c4ee900b01",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true
+              "type": "markdown",
+              "state": {
+                "file": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5 Semestras/KTIT/Egzaminas/KTIT - Egzaminas.md"
+              }
             }
           },
           {
@@ -158,7 +164,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9863542a733a3371",
+  "active": "912cb5c4ee900b01",
   "lastOpenFiles": [
     "5 Semestras/LP/Praktika/C++ Monitoriai.md",
     "5 Semestras/LP/LP - Egzaminas.md",
